@@ -1,0 +1,8 @@
+DesafioProjetoHospedagem/
+├── Models/
+│   ├── Pessoa.cs
+│   ├── Suite.cs
+│   └── Reserva.cs
+├── Program.cs
+├── compiladores
+└── README.md
